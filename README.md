@@ -2,6 +2,8 @@
 
 ## Using PointNet on Sydney Urban Dataset (Classification):
 
+![alt text](https://github.com/mhmdrdwn/point/blob/main/results/arranged.png)
+
 Reference: http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml
 
 ### Method
