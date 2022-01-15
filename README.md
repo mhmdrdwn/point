@@ -4,6 +4,8 @@
 
 ![alt text](http://www.acfr.usyd.edu.au/images/papers/arranged.png)
 
+Reference: http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml
+
 ### Method
 [PointNet](https://github.com/mhmdrdwn/point/blob/main/notebooks/sydneyurban.ipynb)
 
