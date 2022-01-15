@@ -1,3 +1,6 @@
+
+
+
 def train(model, train_loader, val_loader,  epochs=8):
     for epoch in range(epochs):
         tick = time.time()
