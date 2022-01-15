@@ -1,6 +1,6 @@
 # vision
 
-## Using PointNet on Sydney Urban Dataset:
+## Using PointNet on Sydney Urban Dataset (Classification):
 
 ![alt text](http://www.acfr.usyd.edu.au/images/papers/arranged.png)
 
@@ -11,7 +11,7 @@
 ![alt text](https://github.com/mhmdrdwn/point/blob/main/results/index.png)
 ![alt text](https://github.com/mhmdrdwn/point/blob/main/results/conf.png)
 
-## Using RandLaNet on Sydney Urban Dataset:
+## Using RandLaNet on Part Segmentation:
 
 ![alt text](https://github.com/mhmdrdwn/point/blob/main/results/airplane.png)
 
